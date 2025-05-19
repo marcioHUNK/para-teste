@@ -17,5 +17,8 @@
     "url": "https://github.com/fullstackjornada/deploy-jornada-full-stack/issues"
   },
   "homepage": "https://github.com/fullstackjornada/deploy-jornada-full-stack#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
